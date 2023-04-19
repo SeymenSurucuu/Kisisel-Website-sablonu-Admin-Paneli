@@ -15,13 +15,13 @@
 -  ~~Girilen bilgilerin database e yazdırılması ve info butonu için anasayfaya çekilmesi. (yapıldığı tarih: 16.04.2023/18.04.2023.)~~
 -  ~~Kod dosyası içerisinde oynama yapılabilmesi adına bilgi satırlarının eklenmesi. (yapıldığı tarih: 16.04.2023/18.04.2023.)~~
 - Dosyaların githuba eklenmesi(Ekleneceği tarih 19.04.2023 - 20.04.2023).
-- ~~Admin panel üzerinden anasayfada ki tüm elementere erişim ve değişim sağlanması.(Ekleneceği tarih 19.04.2023 - 20.04.2023).~~
-- ~~Admin panel üzerinden anasayfa da ki tüm elemtlerin aktif pasif hale getirilmesi.~~
-- ~~Anasyafa ya marka slider ı eklenmesi ve admin panel üzerinden elementlerine erişim ve değişim sağlanması.~~
-- ~~Blog sayfası, gallery sayfası ve Chat sayfası için şablonun giydirilmesi.~~
-- ~~Admin panel üzerinden Blog sayfası, Chat ve Gallery sayfaları için Elementlere erişim değişim sağlanması.~~
-- ~~**Dinamik chat sistemi, Siteye giren kullanıcılar ile admin panel üzerinden anlık mesajlaşma**.~~
-- ~~Admin panel için login sistemi.~~
+- Admin panel üzerinden anasayfada ki tüm elementere erişim ve değişim sağlanması.(Ekleneceği tarih 19.04.2023 - 20.04.2023).
+- Admin panel üzerinden anasayfa da ki tüm elemtlerin aktif pasif hale getirilmesi.
+- Anasyafa ya marka slider ı eklenmesi ve admin panel üzerinden elementlerine erişim ve değişim sağlanması.
+- Blog sayfası, gallery sayfası ve Chat sayfası için şablonun giydirilmesi.
+- Admin panel üzerinden Blog sayfası, Chat ve Gallery sayfaları için Elementlere erişim değişim sağlanması.
+- **Dinamik chat sistemi, Siteye giren kullanıcılar ile admin panel üzerinden anlık mesajlaşma**.
+- Admin panel için login sistemi.
 
 ### Panel in ve Tema nın Kronolojik gelişim fotoğrafları
 16.04.2023 ile 18.04.2023 Arası yapılanlar sonucu son hali;
