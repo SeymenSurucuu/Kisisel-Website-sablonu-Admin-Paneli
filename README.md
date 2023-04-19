@@ -10,9 +10,10 @@
 
 ##Özellikler ve Yapılacaklar
 
-- Ana temaya uygun admin panel şablonu hazırlanması.
--  Admin panel üzerinden anasayfaya bakmadan mevcut bilgilerin görülmesi (info butonu)
-- Kod dosyası içerisinde oynama yapılabilmesi adına bilgi satırlarının eklenmesi.
+- Ana temaya uygun admin panel şablonu hazırlanması. (yapıldığı tarih: 16.04.2023/18.04.2023.)
+-  Admin panel üzerinden anasayfaya bakmadan mevcut bilgilerin görülmesi (info butonu)  (yapıldığı tarih: 16.04.2023/18.04.2023.)
+-  Girilen bilgilerin database e yazdırılması ve info butonu için anasayfaya çekilmesi. (yapıldığı tarih: 16.04.2023/18.04.2023.)
+- Kod dosyası içerisinde oynama yapılabilmesi adına bilgi satırlarının eklenmesi. (yapıldığı tarih: 16.04.2023/18.04.2023.)
 - ~~Admin panel üzerinden anasayfada ki tüm elementere erişim ve değişim sağlanması.(Ekleneceği tarih 19.04.2023 - 20.04.2023).~~
 - ~~Admin panel üzerinden anasayfa da ki tüm elemtlerin aktif pasif hale getirilmesi.~~
 - ~~Anasyafa ya marka slider ı eklenmesi ve admin panel üzerinden elementlerine erişim ve değişim sağlanması.~~
@@ -22,7 +23,7 @@
 - ~~Admin panel için login sistemi.~~
 
 ### Panel in ve Tema nın Kronolojik gelişim fotoğrafları
-15.04 ile 18.04 Arası yapılanlar sonucu son hali;
+16.04.2023 ile 18.04.2023 Arası yapılanlar sonucu son hali;
 
 <img src="https://raw.githubusercontent.com/SeymenSurucuu/Kisisel-Website-sablonu-Admin-Paneli/main/Kronolojik%20Geli%C5%9Fim%20Foto%C4%9Fraflar%C4%B1/16.04.2023%20-%2018.04.2023/ads%C4%B1z3.png" width="23%"></img> <img src="https://raw.githubusercontent.com/SeymenSurucuu/Kisisel-Website-sablonu-Admin-Paneli/main/Kronolojik%20Geli%C5%9Fim%20Foto%C4%9Fraflar%C4%B1/16.04.2023%20-%2018.04.2023/Ads%C4%B1z4.png" width="23%"></img> <img src="https://github.com/SeymenSurucuu/Kisisel-Website-sablonu-Admin-Paneli/blob/main/Kronolojik%20Geli%C5%9Fim%20Foto%C4%9Fraflar%C4%B1/16.04.2023%20-%2018.04.2023/Ads%C4%B1z2.png?raw=true" width="23%"></img> <img src="https://raw.githubusercontent.com/SeymenSurucuu/Kisisel-Website-sablonu-Admin-Paneli/main/Kronolojik%20Geli%C5%9Fim%20Foto%C4%9Fraflar%C4%B1/16.04.2023%20-%2018.04.2023/Ads%C4%B1z.png" width="23%"></img> 
 
