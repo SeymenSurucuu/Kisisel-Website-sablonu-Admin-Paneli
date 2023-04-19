@@ -6,7 +6,7 @@
 # Ücretsiz Kişisel Cv Websitesi / Kişisel Cv Website Şablonu
 **Ücretsiz kişisel websites**i ile bir kaç tane düzenleme ile kendi websitenizi yapabilirsiniz. Bu paneli stajer olarak çalıştığım dönem sistem uzmanı olan [melih abi](https://github.com/mordulu "melih abi") için hazırlamıştım Etik olmadığı için paralı satılan temanın tüm kodlarını açık olarak paylaşmıyorum.  Dilerseniz temayı satın alabilir ya da paylaştığım dosyayı ve satılan temanın dosyalarını karşılaştırabilirsiniz. :)
 
-
+> Proje nin database dosyası şablonlar tamamlanınca paylaşılacaktır. Beklemek yerine took.php içerisinde bulunan bilgiler fonksiyonundan database adlarını alıp database oluşturabilirsiniz.
 
 ##Özellikler ve Yapılacaklar
 
