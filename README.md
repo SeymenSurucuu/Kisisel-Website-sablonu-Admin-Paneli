@@ -8,7 +8,7 @@
 
 > Proje nin database dosyası şablonlar tamamlanınca paylaşılacaktır. Beklemek yerine took.php içerisinde bulunan bilgiler fonksiyonundan database adlarını alıp database oluşturabilirsiniz. İleride gelecek olan güncellemeler ile değişen database için aynı şekilde yazı güncellenecektir.
 
-##Özellikler ve Yapılacaklar
+## Özellikler ve Yapılacaklar
 
 - ~~Ana temaya uygun admin panel şablonu hazırlanması. (yapıldığı tarih: 16.04.2023/18.04.2023.)~~
 -  ~~Admin panel üzerinden anasayfaya bakmadan mevcut bilgilerin görülmesi (info butonu)  (yapıldığı tarih: 16.04.2023/18.04.2023.)~~
