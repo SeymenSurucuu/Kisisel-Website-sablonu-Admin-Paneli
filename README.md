@@ -6,7 +6,7 @@
 # Ücretsiz Kişisel Cv Websitesi / Kişisel Cv Website Şablonu
 **Ücretsiz kişisel websites**i ile bir kaç tane düzenleme ile kendi websitenizi yapabilirsiniz. Bu paneli stajer olarak çalıştığım dönem sistem uzmanı olan [melih abi](https://github.com/mordulu "melih abi") için hazırlamıştım Etik olmadığı için paralı satılan temanın tüm kodlarını açık olarak paylaşmıyorum.  Dilerseniz temayı satın alabilir ya da paylaştığım dosyayı ve satılan temanın dosyalarını karşılaştırabilirsiniz. :)
 
-> Proje nin database dosyası şablonlar tamamlanınca paylaşılacaktır. Beklemek yerine took.php içerisinde bulunan bilgiler fonksiyonundan database adlarını alıp database oluşturabilirsiniz.
+> Proje nin database dosyası şablonlar tamamlanınca paylaşılacaktır. Beklemek yerine took.php içerisinde bulunan bilgiler fonksiyonundan database adlarını alıp database oluşturabilirsiniz. İleride gelecek olan güncellemeler ile değişen database için aynı şekilde yazı güncellenecektir.
 
 ##Özellikler ve Yapılacaklar
 
@@ -14,7 +14,7 @@
 -  ~~Admin panel üzerinden anasayfaya bakmadan mevcut bilgilerin görülmesi (info butonu)  (yapıldığı tarih: 16.04.2023/18.04.2023.)~~
 -  ~~Girilen bilgilerin database e yazdırılması ve info butonu için anasayfaya çekilmesi. (yapıldığı tarih: 16.04.2023/18.04.2023.)~~
 -  ~~Kod dosyası içerisinde oynama yapılabilmesi adına bilgi satırlarının eklenmesi. (yapıldığı tarih: 16.04.2023/18.04.2023.)~~
--  ~~Dosyaların githuba eklenmesi(Ekleneceği tarih 19.04.2023 - 20.04.2023).~~
+-  ~~Dosyaların githuba eklenmesi(yapıldığı tarih 19.04.2023 - 20.04.2023).~~
 - Admin panel üzerinden anasayfada ki tüm elementere erişim ve değişim sağlanması.(Ekleneceği tarih 19.04.2023 - 25.04.2023).
 - Admin panel üzerinden anasayfa da ki tüm elemtlerin aktif pasif hale getirilmesi.
 - Anasyafa ya marka slider ı eklenmesi ve admin panel üzerinden elementlerine erişim ve değişim sağlanması.
