@@ -15,7 +15,7 @@
 -  ~~Girilen bilgilerin database e yazdırılması ve info butonu için anasayfaya çekilmesi. (yapıldığı tarih: 16.04.2023/18.04.2023.)~~
 -  ~~Kod dosyası içerisinde oynama yapılabilmesi adına bilgi satırlarının eklenmesi. (yapıldığı tarih: 16.04.2023/18.04.2023.)~~
 -  ~~Dosyaların githuba eklenmesi(yapıldığı tarih 19.04.2023 - 20.04.2023).~~
-- Admin panel üzerinden anasayfada ki tüm elementere erişim ve değişim sağlanması.(Ekleneceği tarih 25.04.2023). ~~Text Area'dan gelen yazının dümdüz uzaması ve alta atmaması "word-wrap: break-word;" etiketi ile çözüldü~~
+- Admin panel üzerinden anasayfada ki tüm elementere erişim ve değişim sağlanması.(Ekleneceği tarih 25.04.2023). 
 - Admin panel üzerinden anasayfa da ki tüm elemtlerin aktif pasif hale getirilmesi.
 - Anasyafa ya marka slider ı eklenmesi ve admin panel üzerinden elementlerine erişim ve değişim sağlanması.
 - Blog sayfası, gallery sayfası ve Chat sayfası için şablonun giydirilmesi.
