@@ -23,6 +23,9 @@
 - **Dinamik chat sistemi, Siteye giren kullanıcılar ile admin panel üzerinden anlık mesajlaşma**.
 - Admin panel için login sistemi.
 
+Çıkan Problemler; 
+- ~~Text Area'dan gelen yazının dümdüz uzaması ve alta atmaması "word-wrap: break-word;" etiketi ile çözüldü~~
+
 ### Panel in ve Tema nın Kronolojik gelişim fotoğrafları
 16.04.2023 ile 18.04.2023 Arası yapılanlar sonucu son hali;
 
