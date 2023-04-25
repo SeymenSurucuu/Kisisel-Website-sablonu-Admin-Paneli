@@ -50,6 +50,7 @@ body {
 	.page {
 		overflow: visible;
 	}
+	
 
 }
 
@@ -61,6 +62,8 @@ body {
 /*
 	2. Container
 */
+
+
 .container {
 	margin: -300px 0 0 -240px;
 	position: absolute;
@@ -131,6 +134,7 @@ body {
 		width: auto;
 		max-width: 100%;
 	}
+	
 
 }
 
@@ -145,7 +149,12 @@ body {
 	background-size: cover;
 	background-color: rgba(120, 204, 109, 0.4);
 }
-
+.textim{
+	width: 600px;
+	padding-top: 2%;
+	word-wrap: break-word;
+	height: auto;
+}
 
 /*
 	3. Columns
@@ -218,6 +227,7 @@ body {
 		width: 8.333%;
 	}
 
+
 }
 
 @media (max-width: 1023px) {
@@ -267,6 +277,12 @@ body {
 
 	.row .col.col-t-1 {
 		width: 8.333%;
+	}
+	.textim{
+		width: 500px;
+		padding-top: 2%;
+		word-wrap: break-word;
+		height: auto;
 	}
 
 }
@@ -318,6 +334,12 @@ body {
 
 	.row .col.col-m-1 {
 		width: 8.333%;
+	}
+	.textim{
+		width: 320px;
+		padding-top: 2%;
+		word-wrap: break-word;
+		height: auto;
 	}
 
 }

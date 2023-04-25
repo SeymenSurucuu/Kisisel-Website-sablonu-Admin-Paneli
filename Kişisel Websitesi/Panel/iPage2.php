@@ -9,12 +9,12 @@ function bilgiler($conn){
         while($row = mysqli_fetch_assoc($result)) {
            
             $veriler[] = array(
-                "ad" => $row["name"],
-                "ad2" => $row["headeraboutme"],
-                "ad3" => $row["mailtext"],
-                "ad4" => $row["mailadress"],
-                "ad5" => $row["ctext1"],
-                "ad6" => $row["ctext2"],
+                "link1" => $row["link1"],
+                "link2" => $row["link2"],
+                "link3" => $row["link3"],
+                "icon1" => $row["icon1"],
+                "icon2" => $row["icon2"],
+                "icon3" => $row["icon3"],
                 "ad7" => $row["aboutme"]
             );
         }
@@ -35,7 +35,6 @@ function bilgiler($conn){
         <link rel="stylesheet" href="css/input.css" />
         <link rel="stylesheet" href="css/infobox.css" />
         <script src="Js/infobox.js"></script>
-        <script src="Js/textarea.js"></script>
 
         <?php $veri=bilgiler($conn);  ?>
     </head>    
@@ -71,13 +70,13 @@ function bilgiler($conn){
                             <!--infobox start -->
                                     <img src="img/info.png" onmouseover="showInfo()" onmouseout="hideInfo()" class="img1" width="16px" height="16px">
                                                          <div class="infoBox">
-                                                         <?php echo"Current Value: ". $veri[0]["ad"]; ?>
-                                                         </div> <!-- infobox end--><!--title text -->Your Name</div>                              
+                                                         <?php echo"Current Value: ". $veri[0]["link1"]; ?>
+                                                         </div> <!-- infobox end--><!--title text -->Link 1</div>                              
                                                    
                                                          <!--text input start -->
                                                         <div class="inputs"> 
-                                                                <form action="took.php" method="post"> 
-                                                                <input type="text" placeholder="Write here..." name="yourName" class="input">         
+                                                                <form action="iPage2Took.php" method="post"> 
+                                                                <input type="text" placeholder="Write here..." name="link1" class="input">         
                                                         </div>  <!--text input end -->                       
                             </div> <!--blur box end -->
                         
@@ -85,11 +84,11 @@ function bilgiler($conn){
                         <div class ="cart bir">  <div class="tit"> 
                         <img src="img/info.png" onmouseover="showInfo()" onmouseout="hideInfo()" class="img2" width="16px" height="16px">
                                             <div class="infoBox">
-                                            <?php echo"Current Value: ". $veri[0]["ad2"]; ?>
-                                    </div>Header About Me Text  </div>
+                                            <?php echo"Current Value: ". $veri[0]["link2"]; ?>
+                                    </div>Link 2 </div>
 
                                   <div class="inputs"> 
-                                 <input type="text" placeholder="Write here..." name="headerAboutMeTex" class="input"> 
+                                 <input type="text" placeholder="Write here..." name="link2" class="input"> 
                                 </div> 
                     
                         </div>
@@ -98,60 +97,55 @@ function bilgiler($conn){
                         <div class ="cart bir">  <div class="tit">
                         <img src="img/info.png" onmouseover="showInfo()" onmouseout="hideInfo()" class="img3" width="16px" height="16px">
                                             <div class="infoBox">
-                                            <?php echo"Current Value: ". $veri[0]["ad3"]; ?>
-                                    </div>Mail Text </div>
+                                            <?php echo"Current Value: ". $veri[0]["link3"]; ?>
+                                    </div>Link 3 </div>
                         
                                 <div class="inputs"> 
-                                    <input type="text" placeholder="Write here..." name="mailText" class="input"> 
+                                    <input type="text" placeholder="Write here..." name="link3" class="input"> 
                                  </div> 
                         </div>
                        
                         <div class ="cart bir">  <div class="tit"> 
                         <img src="img/info.png" onmouseover="showInfo()" onmouseout="hideInfo()" class="img4" width="16px" height="16px">
                                             <div class="infoBox">
-                                            <?php echo"Current Value: ". $veri[0]["ad4"]; ?>
-                                    </div>Mail Adress </div>
+                                            <?php echo"Current Value: ". $veri[0]["icon1"]; ?>
+                                    </div>İcon 1 </div>
 
                                 <div class="inputs"> 
-                                    <input type="email" placeholder="Write here..." name="mailAddress" class="input"> 
+                                    <input type="text" placeholder="Write here..." name="icon1" class="input"> 
                                  </div> 
                         </div>
 
                         <div class ="cart bir">  <div class="tit"> 
                         <img src="img/info.png" onmouseover="showInfo()" onmouseout="hideInfo()" class="img5" width="16px" height="16px">
                                             <div class="infoBox">
-                                            <?php echo"Current Value: ". $veri[0]["ad5"]; ?>
-                                    </div>changing text 1 </div>
+                                            <?php echo"Current Value: ". $veri[0]["icon2"]; ?>
+                                    </div>İcon 2 </div>
 
                                 <div class="inputs"> 
-                                    <input type="text" placeholder="Write here..." name="changingText1" class="input"> 
+                                    <input type="text" placeholder="Write here..." name="icon2" class="input"> 
                                  </div> 
                         </div>
                        
                         <div class ="cart bir">  <div class="tit"> 
                         <img src="img/info.png" onmouseover="showInfo()" onmouseout="hideInfo()" class="img6" width="16px" height="16px">
                                             <div class="infoBox">
-                                            <?php echo"Current Value: ". $veri[0]["ad6"]; ?>
-                                            </div>changing text 2 </div>
+                                            <?php echo"Current Value: ". $veri[0]["icon3"]; ?>
+                                            </div>İcon 3 </div>
 
                                 <div class="inputs"> 
-                                    <input type="text" placeholder="Write here..." name="changingText2" class="input"> 
+                                    <input type="text" placeholder="Write here..." name="icon3" class="input"> 
                                  </div> 
                         </div>
 
-                        <div class ="cart iki"><div class="tit2"> 
-                        <img src="img/info.png" onmouseover="showInfo()" onmouseout="hideInfo()" class="img7" width="16px" height="16px">
-                                            <div class="infoBox">
-                                            <?php echo"Current Value: ". $veri[0]["ad7"]; ?>
-                                        </div>Explain yourself in detail </div>
+                        <div class ="cart iki"><div class="tit2"> Explain yourself in detail </div>
 
-                                     <div class="input2">
-                                        <textarea name="aboutText" id="veriTextArea" cols="145" rows="7" class="input"></textarea>
+                        <div class="input2">
+                                        <textarea name="aboutText" id="#" cols="145" rows="7" class="input"></textarea>
                                         </div>
                                         <div class="input3">
                                         <input type="submit" value="Save All Form" class="input2"></form>   
-                                        </div> 
-                                        <div style="float: right; 	padding-right: 2%; cursor: pointer;" onclick=" location.href='iPage2.php';">->Page 2</div>
+                                        </div>
 
                         </div>
                         
