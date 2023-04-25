@@ -6,7 +6,7 @@
 # Ücretsiz Kişisel Cv Websitesi / Kişisel Cv Website Şablonu
 **Ücretsiz kişisel websites**i ile bir kaç tane düzenleme ile kendi websitenizi yapabilirsiniz. Bu paneli stajer olarak çalıştığım dönem sistem uzmanı olan [melih abi](https://github.com/mordulu "melih abi") için hazırlamıştım Etik olmadığı için paralı satılan temanın tüm kodlarını açık olarak paylaşmıyorum.  Dilerseniz temayı satın alabilir ya da paylaştığım dosyayı ve satılan temanın dosyalarını karşılaştırabilirsiniz.
 
-> Proje nin database dosyası şablonlar tamamlanınca paylaşılacaktır. Beklemek yerine mevcut paylaşılmış versiyon da took.php içerisinde bulunan bilgiler fonksiyonundan database adlarını alıp database oluşturabilirsiniz. İleride gelecek olan güncellemeler ile değişen database için aynı şekilde yazı güncellenecektir.
+> Proje nin database dosyası şablonlar tamamlanınca paylaşılacaktır. Beklemek yerine mevcut paylaşılmış versiyon da index.php içerisinde bulunan bilgiler fonksiyonundan database adlarını alıp database oluşturabilirsiniz. İleride gelecek olan güncellemeler ile değişen database için aynı şekilde yazı güncellenecektir.
 
 ## Özellikler ve Yapılacaklar
 
@@ -16,7 +16,8 @@
 -  ~~Kod dosyası içerisinde oynama yapılabilmesi adına bilgi satırlarının eklenmesi. (yapıldığı tarih: 16.04.2023/18.04.2023.)~~
 -  ~~Dosyaların githuba eklenmesi(yapıldığı tarih 19.04.2023 - 20.04.2023).~~
 -  ~~Admin panel üzerinden anasayfada ki tüm elementere erişim ve değişim sağlanması.(yapıldığı tarih: 25.04.2023).~~
-- Site üzerinde ki tüm görsellerin admin panel üzerinden erişim ve değişim sağlanması.
+- Anasayfa üzerinde ki görsellerin admin panel üzerinden erişim ve değişim sağlanması.(ekleneceği tarih: 26.04.2023)
+- Admin Panel'de ileri geri sayfalarının eklenmesi.(ekleneceği tarih: 26.04.2023)
 - Admin panel üzerinden anasayfa da ki tüm elemtlerin aktif pasif hale getirilmesi.
 - Anasyafa ya marka slider ı eklenmesi ve admin panel üzerinden elementlerine erişim ve değişim sağlanması.
 - Blog sayfası, gallery sayfası ve Chat sayfası için şablonun giydirilmesi.
