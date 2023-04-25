@@ -33,4 +33,5 @@
 
 <img src="https://raw.githubusercontent.com/SeymenSurucuu/Kisisel-Website-sablonu-Admin-Paneli/main/Kronolojik%20Geli%C5%9Fim%20Foto%C4%9Fraflar%C4%B1/16.04.2023%20-%2018.04.2023/ads%C4%B1z3.png" width="23%"></img> <img src="https://raw.githubusercontent.com/SeymenSurucuu/Kisisel-Website-sablonu-Admin-Paneli/main/Kronolojik%20Geli%C5%9Fim%20Foto%C4%9Fraflar%C4%B1/16.04.2023%20-%2018.04.2023/Ads%C4%B1z4.png" width="23%"></img> <img src="https://github.com/SeymenSurucuu/Kisisel-Website-sablonu-Admin-Paneli/blob/main/Kronolojik%20Geli%C5%9Fim%20Foto%C4%9Fraflar%C4%B1/16.04.2023%20-%2018.04.2023/Ads%C4%B1z2.png?raw=true" width="23%"></img> <img src="https://raw.githubusercontent.com/SeymenSurucuu/Kisisel-Website-sablonu-Admin-Paneli/main/Kronolojik%20Geli%C5%9Fim%20Foto%C4%9Fraflar%C4%B1/16.04.2023%20-%2018.04.2023/Ads%C4%B1z.png" width="23%"></img> 
 
+18.04.2023 ile 25.04.2023 Arası yapılan adım 6 sonucu;  
 
