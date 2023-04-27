@@ -24,6 +24,7 @@
 - Admin panel üzerinden Blog sayfası, Chat ve Gallery sayfaları için Elementlere erişim değişim sağlanması.
 - **Dinamik chat sistemi, Siteye giren kullanıcılar ile admin panel üzerinden anlık mesajlaşma**.
 - Admin panel için login sistemi.
+- Admin panel'in responsive ayarları.
 
 Çıkan Problemler; 
 - ~~Text Area'dan gelen yazının problemli olması ve alta atmaması sorunu "word-wrap: break-word;" etiketi ile çözüldü~~
